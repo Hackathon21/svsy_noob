@@ -17,6 +17,12 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
         <!-- /Bootstrap File Links -->
 
+        <style>
+            .banner{
+                background-image: url('images/banner.jpg');
+                height: 80vh;
+            }
+        </style>
 
     </head>
     <body>
@@ -24,10 +30,17 @@
             <div class="row">
                 <div class="col-sm-12 header">
                     <div class="row">
-                        <div class="col-sm-3 logo">
-                            
+                        <div class="col-sm-12 menubar">
+                            <div class="row">
+                                <div class="col-sm-3 logo">
+                                    
+                                </div>
+                                <div class="col-sm-9 menu">
+                                    
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-sm-9 menu">
+                        <div class="col-sm-12 banner">
                             
                         </div>
                     </div>  
